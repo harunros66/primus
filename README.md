@@ -8,7 +8,7 @@ git clone https://github.com/harunros66/primus.git
 
 ### 2. Go To Bot Directory
 ```
-cd primus-daily
+cd primus
 ```
 
 ### 3. Install
