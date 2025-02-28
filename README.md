@@ -3,7 +3,7 @@
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/mudrickfarhan/primus-daily.git
+git clone https://github.com/harunros66/primus.git
 ```
 
 ### 2. Go To Bot Directory
